@@ -1,0 +1,178 @@
+body{
+  background:url('../img/bg2.jpg');
+
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+header{
+  font-family: 'Lato', sans-serif;
+margin:-20px;
+  height: 99px;
+  width: 960px;
+position: fixed;
+  background:#C3C8C9;
+}
+
+header h1{
+    font-family: 'Lato', sans-serif;
+  padding-top: 20px;
+  font-size: 50px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-shadow:
+  4px 3px 2px white;
+  font-family: 'Lato', sans-serif;
+}
+nav a{
+padding-top: 20px;
+  padding-right: 20px;
+padding-left: 20px;
+text-decoration: none;
+color: black;
+}
+nav a:hover{
+  color:#EF4B53;
+}
+nav a:hover{
+text-decoration: underline;
+}
+.home{
+  padding: 35px;
+margin: 0;
+text-align: center;
+width: 610px;
+font-family: 'Lato', sans-serif;
+float: right;
+}
+
+nav li{
+  display: inline;
+
+}
+.smart{
+  font-family: 'Lato', sans-serif;
+  padding-top: 130px;
+  font-size: 30px;
+  color: #D5CF60;
+}
+.dd{
+  font-family: 'Lato', sans-serif;
+  margin: auto;
+}
+.mm,.dual{
+  padding-left: 70px;
+}
+section a{
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+  color:black;
+}
+section a:hover{
+  text-decoration: underline;
+  color: red;
+}
+.main{
+  background:white;
+
+}
+.sony{
+  padding-top: 130px;
+  font-family: 'Lato', sans-serif;
+  background: white;
+}
+.content{
+    font-family: 'Lato', sans-serif;
+  padding-top: 130px;
+
+  background: white;
+  text-align: center;
+
+}
+.img{
+  padding-top: -20px;
+}
+.wrap,.wrac{
+  background:white;
+
+  font-family: 'Lato', sans-serif;
+}
+.vv{
+  padding-top: 130px;
+}
+.dual{
+
+  color:grey;
+  font-size: 15px;
+}
+.android{
+  font-size: 22px;
+}
+.desc{
+
+  padding-left: 70px;
+  color:grey;
+  font-size: 13px;
+}
+ section ul{
+   padding-top: 10px;
+   list-style: circle;
+ }
+footer{
+  font-family: 'Lato', sans-serif;
+  background: #C3C8C9;
+}
+section p{
+  color:grey;
+  text-align: justify;
+}
+section h1{
+  text-align: center;
+font-family: 'Lato', sans-serif;
+}
+.last{
+  background: white;
+
+}
+.cp{
+  font-family: 'Lato', sans-serif;
+  padding-right: 10px;
+  padding-left: 0;
+  color: grey;
+  text-align: justify;
+}
+.k{
+  color:grey;
+}
+.c{
+  text-align: left;
+}
+.an{
+  width: 70%;
+  height: 60%;
+}
+.and{
+  width: 95%;
+}
+.kl,.sony2{
+  width:100%;
+  height: 70%;
+}
+.mic{
+  width:70%;
+   height:45%;
+}
+.moto2{
+  width:80%;
+  height: 50%;
+}
+.micr{
+  width: 75%;
+  height: 55%;
+}
+.moto{
+  height: 45%;
+}
+footer img{
+  width: 3%;
+  height: 4%;
+}
